@@ -1,2 +1,2 @@
 # xmcd2cs
-Convert MATHCAD application to a C# program 
+Convert MATHCAD xmcd files to C#
